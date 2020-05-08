@@ -7,3 +7,4 @@
   - [キャリアバイト](https://careerbaito.com/)
   - [Infra](https://www.in-fra.jp/long-internship)
   - [ゼロワン](https://01intern.com)
+  - [Wantedly](https://www.wantedly.com)
